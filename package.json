@@ -1,0 +1,24 @@
+{
+  "name": "randomizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vignesh T.V.",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "chalk": "^2.3.0",
+    "express": "^4.16.2",
+    "glob": "^7.1.2",
+    "helmet": "^3.10.0",
+    "lodash": "^4.17.4",
+    "method-override": "^2.3.10",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0",
+    "winston": "^2.4.0",
+    "xss-clean": "^0.1.1"
+  }
+}
